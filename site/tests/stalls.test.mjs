@@ -14,7 +14,8 @@ test('every supplied stall and unit is preserved under its postal code', () => {
     const rows = section.split('\n').filter(l => l.startsWith('| ') && !l.startsWith('| Stall / Merchant'));
     assert.equal(rows.length, Number(section.match(/\*\*Participating merchant listings:\*\* (\d+)/)[1]));
     for (const row of rows) {
-      const [name, unit] = row.slice(1,-1).split('|').map(c => c.trim());
+      const [name, sourceUnit] = row.slice(1,-1).split('|').map(c => c.trim());
+      const unit = sourceUnit === '—' ? sourceUnit : `#${sourceUnit.replace(/^#+/, '').trim()}`;
       expected[postal].set(JSON.stringify([name,unit]), {name,unit}); total++;
     }
   }

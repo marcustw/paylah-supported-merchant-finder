@@ -19,7 +19,10 @@ for section in re.split(r'^## ', source.read_text(), flags=re.M)[1:]:
         cells = [cell.strip() for cell in line.strip().strip('|').split('|')]
         if len(cells) != 2:
             raise ValueError(f'Invalid row in {name}: {line}')
-        rows.append({'name': cells[0], 'unit': cells[1]})
+        unit = cells[1]
+        if unit != '—':
+            unit = '#' + unit.lstrip('#').strip()
+        rows.append({'name': cells[0], 'unit': unit})
     count = re.search(r'\*\*Participating merchant listings:\*\* (\d+)', section)
     if not count or len(rows) != int(count[1]):
         raise ValueError(f'Stall count mismatch in {name}')

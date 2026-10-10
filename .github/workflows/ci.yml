@@ -1,4 +1,4 @@
-name: Check app
+name: Check and deploy app
 
 on:
   push:
@@ -10,6 +10,7 @@ permissions:
 jobs:
   check:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     defaults:
       run:
         working-directory: site
@@ -26,3 +27,45 @@ jobs:
       - run: pnpm install --frozen-lockfile
       - run: pnpm test
       - run: pnpm run build
+
+  deploy:
+    name: Deploy production
+    needs: check
+    if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    environment: production
+    concurrency:
+      group: vercel-production
+      cancel-in-progress: false
+    env:
+      VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
+      VERCEL_ORG_ID: ${{ secrets.VERCEL_ORG_ID }}
+      VERCEL_PROJECT_ID: ${{ secrets.VERCEL_PROJECT_ID }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: pnpm/action-setup@v4
+        with:
+          package_json_file: site/package.json
+      - uses: actions/setup-node@v4
+        with:
+          node-version-file: site/.nvmrc
+          cache: pnpm
+          cache-dependency-path: site/pnpm-lock.yaml
+      - name: Check deployment secrets
+        shell: bash
+        run: |
+          for secret in VERCEL_TOKEN VERCEL_ORG_ID VERCEL_PROJECT_ID; do
+            if [ -z "${!secret}" ]; then
+              echo "::error::Missing GitHub Actions secret: $secret. See README.md for setup."
+              exit 1
+            fi
+          done
+      - run: pnpm --dir site install --frozen-lockfile
+      # Run the CLI at repository root; Vercel's project Root Directory is site.
+      - name: Pull Vercel production settings
+        run: pnpm dlx vercel@63.1.2 pull --yes --environment=production --token="$VERCEL_TOKEN"
+      - name: Build Vercel production artifact
+        run: pnpm dlx vercel@63.1.2 build --prod --token="$VERCEL_TOKEN"
+      - name: Deploy production artifact
+        run: pnpm dlx vercel@63.1.2 deploy --prebuilt --prod --token="$VERCEL_TOKEN"

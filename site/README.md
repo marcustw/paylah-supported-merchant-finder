@@ -71,4 +71,6 @@ Import the repository into Vercel and set **Root Directory** to `site`. `vercel.
 
 To pin the exact pnpm 8.15.6 version on Vercel, optionally enable `ENABLE_EXPERIMENTAL_COREPACK=1` in the project build environment; Vercel then uses the `packageManager` field.
 
+GitHub Actions deploys production after successful tests/builds on pushes to `main`. Automatic Vercel Git deployments are disabled in `vercel.json`. See [CI/CD setup in the repository README](../README.md#cicd-with-github-actions) for the three required GitHub secrets.
+
 References: [Vite on Vercel](https://vercel.com/docs/frameworks/frontend/vite), [package manager detection](https://vercel.com/docs/package-managers), [Corepack setup](https://vercel.com/docs/builds/configure-a-build#corepack).

@@ -116,6 +116,9 @@ test('hover opens every stall, list stays scrollable, and click keeps it open', 
   await marker.click();
   await page.locator('#search').hover();
   await expect(popup).toBeVisible();
+  await page.locator('#search').fill('642221');
+  await page.locator('.result').click();
+  await expect(page.locator('.stall-list li').filter({hasText:'BOON LAY BONELESS DUCK NOODLES'}).locator('.stall-unit')).toHaveText('#01-140');
 });
 
 test('tap displays full stall list, and unavailable listings are explicit', async ({page}) => {
