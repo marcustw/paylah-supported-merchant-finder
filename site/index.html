@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#183f36">
+<meta name="description" content="Find a supported hawker location near you. Explore 121 Singapore hawker centres and markets from the supplied PayLah! participating locations list.">
+<title>Hawker Nearby · Find your next makan spot</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='16' fill='%23183f36'/%3E%3Ctext x='10' y='46' font-size='43'%3E🍜%3C/text%3E%3C/svg%3E">
+<link rel="stylesheet" href="/lib/leaflet.css"><link rel="stylesheet" href="/lib/MarkerCluster.css"><link rel="stylesheet" href="/src/style.css">
+<script defer src="/lib/leaflet.js"></script><script defer src="/lib/leaflet.markercluster.js"></script><script type="module" src="/src/app.js"></script>
+</head>
+<body>
+<a class="skip" href="#search">Skip to location search</a>
+<header class="topbar"><a class="brand" href="./" aria-label="Hawker Nearby home"><span class="brand-icon" aria-hidden="true">♨</span><span>hawker<span class="brand-light">nearby</span><small>GOOD FOOD, CLOSER TO YOU</small></span></a><div class="top-meta"><span class="status-dot"></span> Singapore <span class="divider">/</span> <span>PayLah! location finder</span></div><button id="about-button" class="text-button">About the list <span aria-hidden="true">↗</span></button></header>
+<main>
+<aside class="sidebar" aria-label="Find hawker locations">
+<section class="intro"><div class="eyebrow"><span></span> YOUR NEXT MAKAN STOP</div><h1>Good food.<br> Just around<br> <em>the corner.</em></h1><p>Explore supported hawker locations.<br> Find your next stop, wherever you are.</p>
+<button id="locate" class="primary" disabled><span aria-hidden="true">◎</span> Use my location <span aria-hidden="true">↗</span></button><p id="location-status" class="hint" role="status">Your location is used only on this device.</p>
+<div class="search-wrap"><span aria-hidden="true">⌕</span><input id="search" type="search" placeholder="Name, neighbourhood or postal code" aria-label="Search locations" autocomplete="off" disabled></div>
+<div class="filters"><label for="radius">Distance</label><select id="radius" disabled><option value="all">Any distance</option><option value="1">Within 1 km</option><option value="3">Within 3 km</option><option value="5">Within 5 km</option><option value="10">Within 10 km</option></select><button id="clear" class="text-button" hidden>Reset</button></div>
+</section>
+<div class="results-heading"><h2 id="result-count" aria-live="polite">Loading locations…</h2><span id="sort-label">A–Z</span></div>
+<div id="results" class="results" aria-label="Locations"></div>
+<div class="sidebar-note">Listed locations, not every stall. Check participation with the vendor.</div>
+</aside>
+<section class="map-section" aria-label="Map overview">
+<div class="map-toolbar"><div><span class="eyebrow">EXPLORE SINGAPORE</span><strong id="map-title">An island of good food.</strong></div><button id="overview" class="secondary" disabled><span aria-hidden="true">⤢</span> Island overview</button></div>
+<div id="map" aria-label="Interactive map of supported hawker locations"></div>
+<div id="map-error" class="map-error" role="status" hidden>Map tiles couldn’t load. Location pins and the list are still available. Check your connection.</div>
+<div class="map-legend"><span class="legend-pin"></span> Supported location <span class="legend-cluster">12</span> Hover a pin · tap for details</div>
+<button id="pick-location" class="map-pick" disabled>⊕ Choose a location on the map</button>
+</section>
+</main>
+<dialog id="about"><button class="dialog-close" aria-label="Close about dialog">×</button><div class="eyebrow">ABOUT THIS MAP</div><h2>A little help finding<br>your next hawker stop.</h2><p>This map uses all 121 locations in the supplied supported-hawkers list, with coordinates matched to postal codes using Singapore’s OneMap.</p><p>The list mostly identifies hawker centres and markets. A listed centre does not mean every stall participates. Confirm eligibility and current offers with the stall before paying.</p><p>This independent finder is not affiliated with DBS. It does not provide live opening hours or promotion availability.</p><div class="source-links"><a href="participating-stalls.md" target="_blank" rel="noopener">View supplied stall listings ↗</a><a href="supported-hawkers.md" target="_blank" rel="noopener">View supplied location list ↗</a><a href="participating-merchants.pdf" target="_blank" rel="noopener">View original DBS merchant PDF ↗</a><a href="https://www.onemap.gov.sg/" target="_blank" rel="noopener">Coordinates from OneMap ↗</a></div><p class="hint">Location access is optional. Your coordinates stay in browser memory and are cleared when you reload. Map tiles are loaded from OpenStreetMap. Directions open in Google Maps.</p></dialog>
+<noscript><div class="no-js">Enable JavaScript to use the map, or <a href="supported-hawkers.md">read the location list</a>.</div></noscript>
+</body></html>

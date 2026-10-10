@@ -1,0 +1,32 @@
+# Dependencies and package manager caches
+node_modules/
+.pnpm-store/
+
+# Build output and generated releases
+dist/
+releases/
+coverage/
+*.tsbuildinfo
+
+# Local deployment state
+.vercel/
+.openai/
+
+# Tests
+playwright-report/
+test-results/
+blob-report/
+
+# Local environment and logs
+.env
+.env.*
+!.env.example
+*.log
+
+# Operating system and Python cache files
+.DS_Store
+Thumbs.db
+__pycache__/
+*.py[cod]
+.venv/
+venv/

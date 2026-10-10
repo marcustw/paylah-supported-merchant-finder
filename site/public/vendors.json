@@ -1,0 +1,1212 @@
+[
+  {
+    "id": "160112",
+    "name": "112 Bukit Merah Market & Food Centre",
+    "address": "112 Jalan Bukit Merah, Singapore",
+    "postal": "160112",
+    "lat": 1.280004801351239,
+    "lng": 103.8260132962092,
+    "coordinateSource": "https://www.onemap.gov.sg/api/common/elastic/search?searchVal=160112&returnGeom=Y&getAddrDetails=Y&pageNum=1",
+    "geocodedAddress": "112 JALAN BUKIT MERAH MARKET & HAWKER CENTRE (BLK 112 JALAN BUKIT MERAH) SINGAPORE 160112"
+  },
+  {
+    "id": "151115",
+    "name": "115 Bukit Merah View Market and Hawker Centre",
+    "address": "115 Bukit Merah View, Singapore",
+    "postal": "151115",
+    "lat": 1.285504455674354,
+    "lng": 103.8218232560867,
+    "coordinateSource": "https://www.onemap.gov.sg/api/common/elastic/search?searchVal=151115&returnGeom=Y&getAddrDetails=Y&pageNum=1",
+    "geocodedAddress": "115 BUKIT MERAH VIEW MARKET & HAWKER CENTRE (BLK 115 BUKIT MERAH VIEW) SINGAPORE 151115"
+  },
+  {
+    "id": "530681",
+    "name": "681 Fresh Market",
+    "address": "681 Hougang Avenue 8, Singapore",
+    "postal": "530681",
+    "lat": 1.372978402848064,
+    "lng": 103.88567915953,
+    "coordinateSource": "https://www.onemap.gov.sg/api/common/elastic/search?searchVal=530681&returnGeom=Y&getAddrDetails=Y&pageNum=1",
+    "geocodedAddress": "681 HOUGANG AVENUE 8 SINGAPORE 530681"
+  },
+  {
+    "id": "100079",
+    "name": "79 Telok Blangah Drive Market and Food Centre",
+    "address": "79 Telok Blangah Drive, Singapore",
+    "postal": "100079",
+    "lat": 1.273355993539597,
+    "lng": 103.8076181299345,
+    "coordinateSource": "https://www.onemap.gov.sg/api/common/elastic/search?searchVal=100079&returnGeom=Y&getAddrDetails=Y&pageNum=1",
+    "geocodedAddress": "79 TELOK BLANGAH DRIVE TELOK BLANGAH FOOD CENTRE SINGAPORE 100079"
+  },
+  {
+    "id": "150006",
+    "name": "ABC Brickworks Food Centre",
+    "address": "6 Jalan Bukit Merah, Singapore",
+    "postal": "150006",
+    "lat": 1.286882972614765,
+    "lng": 103.8081312741608,
+    "coordinateSource": "https://www.onemap.gov.sg/api/common/elastic/search?searchVal=150006&returnGeom=Y&getAddrDetails=Y&pageNum=1",
+    "geocodedAddress": "6 JALAN BUKIT MERAH ABC BRICKWORKS MARKET & FOOD CENTRE SINGAPORE 150006"
+  },
+  {
+    "id": "560628",
+    "name": "Ang Mo Kio 628 Food Centre",
+    "address": "628 Ang Mo Kio Avenue 4, Singapore",
+    "postal": "560628",
+    "lat": 1.380987616654542,
+    "lng": 103.8406280874841,
+    "coordinateSource": "https://www.onemap.gov.sg/api/common/elastic/search?searchVal=560628&returnGeom=Y&getAddrDetails=Y&pageNum=1",
+    "geocodedAddress": "628 ANG MO KIO AVENUE 4 ANG MO KIO 628 MARKET SINGAPORE 560628"
+  },
+  {
+    "id": "330029",
+    "name": "Bendemeer Food Centre",
+    "address": "29 Bendemeer Road, Singapore",
+    "postal": "330029",
+    "lat": 1.319216678901136,
+    "lng": 103.8630209225932,
+    "coordinateSource": "https://www.onemap.gov.sg/api/common/elastic/search?searchVal=330029&returnGeom=Y&getAddrDetails=Y&pageNum=1",
+    "geocodedAddress": "29 BENDEMEER ROAD BENDEMEER MARKET AND FOOD CENTRE SINGAPORE 330029"
+  },
+  {
+    "id": "460511",
+    "name": "Block 511 Market and Food Centre",
+    "address": "511 Bedok North Street 3, Singapore",
+    "postal": "460511",
+    "lat": 1.333219932972652,
+    "lng": 103.9305815227753,
+    "coordinateSource": "https://www.onemap.gov.sg/api/common/elastic/search?searchVal=460511&returnGeom=Y&getAddrDetails=Y&pageNum=1",
+    "geocodedAddress": "511 BEDOK NORTH STREET 3 KAKI BUKIT 511 MARKET AND FOOD CENTRE SINGAPORE 460511"
+  },
+  {
+    "id": "756973",
+    "name": "Bukit Canberra Hawker Centre",
+    "address": "21 Canberra Link, Singapore",
+    "postal": "756973",
+    "lat": 1.448263364101597,
+    "lng": 103.8227636318894,
+    "coordinateSource": "https://www.onemap.gov.sg/api/common/elastic/search?searchVal=756973&returnGeom=Y&getAddrDetails=Y&pageNum=1",
+    "geocodedAddress": "21 CANBERRA LINK BUKIT CANBERRA SINGAPORE 756973"
+  },
+  {
+    "id": "560527",
+    "name": "Cheng San Market & Cooked Food Centre",
+    "address": "527 Ang Mo Kio Avenue 10, Singapore",
+    "postal": "560527",
+    "lat": 1.372772093027544,
+    "lng": 103.854457955288,
+    "coordinateSource": "https://www.onemap.gov.sg/api/common/elastic/search?searchVal=560527&returnGeom=Y&getAddrDetails=Y&pageNum=1",
+    "geocodedAddress": "527 ANG MO KIO AVENUE 10 CHENG SAN MARKET AND COOKED FOOD CENTRE SINGAPORE 560527"
+  },
+  {
+    "id": "760105",
+    "name": "Chong Pang Market & Food Centre",
+    "address": "105 Yishun Ring Road, Singapore",
+    "postal": "760105",
+    "lat": 1.431718366628382,
+    "lng": 103.8281142569749,
+    "coordinateSource": "https://www.onemap.gov.sg/api/common/elastic/search?searchVal=760105&returnGeom=Y&getAddrDetails=Y&pageNum=1",
+    "geocodedAddress": "105 YISHUN RING ROAD CHONG PANG MARKET & FOOD CENTRE SINGAPORE 760105"
+  },
+  {
+    "id": "149644",
+    "name": "Commonwealth Crescent Market and Food Centre",
+    "address": "31 Commonwealth Crescent, Singapore",
+    "postal": "149644",
+    "lat": 1.306900132063356,
+    "lng": 103.8003672712181,
+    "coordinateSource": "https://www.onemap.gov.sg/api/common/elastic/search?searchVal=149644&returnGeom=Y&getAddrDetails=Y&pageNum=1",
+    "geocodedAddress": "31 COMMONWEALTH CRESCENT COMMONWEALTH CRESCENT MARKET SINGAPORE 149644"
+  },
+  {
+    "id": "402004",
+    "name": "Eunos Crescent Market and Food Centre",
+    "address": "4A Eunos Crescent, Singapore",
+    "postal": "402004",
+    "lat": 1.320331260100958,
+    "lng": 103.9042564784258,
+    "coordinateSource": "https://www.onemap.gov.sg/api/common/elastic/search?searchVal=402004&returnGeom=Y&getAddrDetails=Y&pageNum=1",
+    "geocodedAddress": "4A EUNOS CRESCENT MARKET & HAWKER CENTRE (BLK 4A EUNOS CRESCENT) SINGAPORE 402004"
+  },
+  {
+    "id": "530105",
+    "name": "Hainanese Village Centre",
+    "address": "105 Hougang Avenue 1, Singapore",
+    "postal": "530105",
+    "lat": 1.354082739101452,
+    "lng": 103.890130407955,
+    "coordinateSource": "https://www.onemap.gov.sg/api/common/elastic/search?searchVal=530105&returnGeom=Y&getAddrDetails=Y&pageNum=1",
+    "geocodedAddress": "105 HOUGANG AVENUE 1 HOUGANG 105 HAINANESE VILLAGE CENTRE SINGAPORE 530105"
+  },
+  {
+    "id": "432004",
+    "name": "Jalan Batu Hawker Centre",
+    "address": "4A Jalan Batu, Singapore",
+    "postal": "432004",
+    "lat": 1.302360348271005,
+    "lng": 103.8839094737256,
+    "coordinateSource": "https://www.onemap.gov.sg/api/common/elastic/search?searchVal=432004&returnGeom=Y&getAddrDetails=Y&pageNum=1",
+    "geocodedAddress": "4A JALAN BATU JALAN BATU HAWKER CENTRE SINGAPORE 432004"
+  },
+  {
+    "id": "730676",
+    "name": "Kampung Admiralty Hawker Centre",
+    "address": "676 Woodlands Drive 71, Singapore",
+    "postal": "730676",
+    "lat": 1.439749517980793,
+    "lng": 103.8007207116206,
+    "coordinateSource": "https://www.onemap.gov.sg/api/common/elastic/search?searchVal=730676&returnGeom=Y&getAddrDetails=Y&pageNum=1",
+    "geocodedAddress": "676 WOODLANDS DRIVE 71 KAMPUNG ADMIRALTY SINGAPORE 730676"
+  },
+  {
+    "id": "370089",
+    "name": "MacPherson Market and Food Centre",
+    "address": "89 Circuit Road, Singapore",
+    "postal": "370089",
+    "lat": 1.323579714005833,
+    "lng": 103.8854388424738,
+    "coordinateSource": "https://www.onemap.gov.sg/api/common/elastic/search?searchVal=370089&returnGeom=Y&getAddrDetails=Y&pageNum=1",
+    "geocodedAddress": "89 CIRCUIT ROAD MARKET & HAWKER CENTRE (BLK 89 CIRCUIT ROAD) SINGAPORE 370089"
+  },
+  {
+    "id": "560162",
+    "name": "Mayflower Food Centre",
+    "address": "162 Ang Mo Kio Avenue 4, Singapore",
+    "postal": "560162",
+    "lat": 1.374107570201603,
+    "lng": 103.8388639211216,
+    "coordinateSource": "https://www.onemap.gov.sg/api/common/elastic/search?searchVal=560162&returnGeom=Y&getAddrDetails=Y&pageNum=1",
+    "geocodedAddress": "162 ANG MO KIO AVENUE 4 MAYFLOWER MARKET AND FOOD CENTRE SINGAPORE 560162"
+  },
+  {
+    "id": "460216",
+    "name": "Pasar 216 Bedok Central",
+    "address": "216 Bedok North Street 1, Singapore",
+    "postal": "460216",
+    "lat": 1.327062742057474,
+    "lng": 103.9332179707457,
+    "coordinateSource": "https://www.onemap.gov.sg/api/common/elastic/search?searchVal=460216&returnGeom=Y&getAddrDetails=Y&pageNum=1",
+    "geocodedAddress": "216 BEDOK NORTH STREET 1 MARKET & HAWKER CENTRE (BLK 216 BEDOK NORTH STREET 1) SINGAPORE 460216"
+  },
+  {
+    "id": "150085",
+    "name": "Redhill Food Centre",
+    "address": "85 Redhill Lane, Singapore",
+    "postal": "150085",
+    "lat": 1.287307515015534,
+    "lng": 103.8183111953068,
+    "coordinateSource": "https://www.onemap.gov.sg/api/common/elastic/search?searchVal=150085&returnGeom=Y&getAddrDetails=Y&pageNum=1",
+    "geocodedAddress": "85 REDHILL LANE REDHILL FOOD CENTRE SINGAPORE 150085"
+  },
+  {
+    "id": "570320",
+    "name": "Shunfu Mart Food Centre Market",
+    "address": "320 Shunfu Road, Singapore",
+    "postal": "570320",
+    "lat": 1.352025570307382,
+    "lng": 103.8369645083527,
+    "coordinateSource": "https://www.onemap.gov.sg/api/common/elastic/search?searchVal=570320&returnGeom=Y&getAddrDetails=Y&pageNum=1",
+    "geocodedAddress": "320 SHUNFU ROAD SHUNFU MART SINGAPORE 570320"
+  },
+  {
+    "id": "081006",
+    "name": "Tanjong Pagar Plaza Food Centre",
+    "address": "6 Tanjong Pagar Plaza, Singapore",
+    "postal": "081006",
+    "lat": 1.276613669833867,
+    "lng": 103.8431616776339,
+    "coordinateSource": "https://www.onemap.gov.sg/api/common/elastic/search?searchVal=081006&returnGeom=Y&getAddrDetails=Y&pageNum=1",
+    "geocodedAddress": "6 TANJONG PAGAR PLAZA TANJONG PAGAR PLAZA SINGAPORE 081006"
+  },
+  {
+    "id": "090036",
+    "name": "Telok Blangah Rise Market and Food Centre",
+    "address": "36 Telok Blangah Rise, Singapore",
+    "postal": "090036",
+    "lat": 1.272761285702876,
+    "lng": 103.8223635422557,
+    "coordinateSource": "https://www.onemap.gov.sg/api/common/elastic/search?searchVal=090036&returnGeom=Y&getAddrDetails=Y&pageNum=1",
+    "geocodedAddress": "36 TELOK BLANGAH RISE TELOK BLANGAH RISE MARKET SINGAPORE 090036"
+  },
+  {
+    "id": "310093",
+    "name": "Toa Payoh Palm Spring Market",
+    "address": "93 Lorong 4 Toa Payoh, Singapore",
+    "postal": "310093",
+    "lat": 1.33847469611073,
+    "lng": 103.8495134488531,
+    "coordinateSource": "https://www.onemap.gov.sg/api/common/elastic/search?searchVal=310093&returnGeom=Y&getAddrDetails=Y&pageNum=1",
+    "geocodedAddress": "93 LORONG 4 TOA PAYOH MARKET & HAWKER CENTRE (BLK 93 TOA PAYOH LORONG 4) SINGAPORE 310093"
+  },
+  {
+    "id": "600347",
+    "name": "Yuhua Hawker Centre",
+    "address": "347 Jurong East Avenue 1, Singapore",
+    "postal": "600347",
+    "lat": 1.345416983127755,
+    "lng": 103.7317038383537,
+    "coordinateSource": "https://www.onemap.gov.sg/api/common/elastic/search?searchVal=600347&returnGeom=Y&getAddrDetails=Y&pageNum=1",
+    "geocodedAddress": "347 JURONG EAST AVENUE 1 YUHUA MARKET & HAWKER CENTRE SINGAPORE 600347"
+  },
+  {
+    "id": "560409",
+    "name": "409 Ang Mo Kio Market and Food Centre",
+    "address": "409 Ang Mo Kio Avenue 10, Singapore",
+    "postal": "560409",
+    "lat": 1.36265410749322,
+    "lng": 103.8552882976312,
+    "coordinateSource": "https://www.onemap.gov.sg/api/common/elastic/search?searchVal=560409&returnGeom=Y&getAddrDetails=Y&pageNum=1",
+    "geocodedAddress": "409 ANG MO KIO AVENUE 10 MARKET & HAWKER CENTRE (BLK 409 ANG MO KIO AVE 10) SINGAPORE 560409"
+  },
+  {
+    "id": "640493",
+    "name": "493 Wet Market",
+    "address": "493 Jurong West Street 41, Singapore",
+    "postal": "640493",
+    "lat": 1.348969960215934,
+    "lng": 103.724938358616,
+    "coordinateSource": "https://www.onemap.gov.sg/api/common/elastic/search?searchVal=640493&returnGeom=Y&getAddrDetails=Y&pageNum=1",
+    "geocodedAddress": "493 JURONG WEST STREET 41 JURONG CENTRAL PLAZA SINGAPORE 640493"
+  },
+  {
+    "id": "390051",
+    "name": "51 Old Airport Road Food Centre",
+    "address": "51 Old Airport Road, Singapore",
+    "postal": "390051",
+    "lat": 1.308251847128713,
+    "lng": 103.8858087060893,
+    "coordinateSource": "https://www.onemap.gov.sg/api/common/elastic/search?searchVal=390051&returnGeom=Y&getAddrDetails=Y&pageNum=1",
+    "geocodedAddress": "51 OLD AIRPORT ROAD 51 OLD AIRPORT ROAD FOOD CENTRE AND SHOPPING MALL SINGAPORE 390051"
+  },
+  {
+    "id": "470630",
+    "name": "630 Bedok Reservoir Road Food Centre",
+    "address": "630 Bedok Reservoir Road, Singapore",
+    "postal": "470630",
+    "lat": 1.332772792172124,
+    "lng": 103.9141908402982,
+    "coordinateSource": "https://www.onemap.gov.sg/api/common/elastic/search?searchVal=470630&returnGeom=Y&getAddrDetails=Y&pageNum=1",
+    "geocodedAddress": "630 BEDOK RESERVOIR ROAD PASAR MAKAN @ RESERVOIR SINGAPORE 470630"
+  },
+  {
+    "id": "330069",
+    "name": "69 Geylang Bahru Market and Food Centre",
+    "address": "69 Geylang Bahru, Singapore",
+    "postal": "330069",
+    "lat": 1.321463110467801,
+    "lng": 103.8700050145466,
+    "coordinateSource": "https://www.onemap.gov.sg/api/common/elastic/search?searchVal=330069&returnGeom=Y&getAddrDetails=Y&pageNum=1",
+    "geocodedAddress": "69 GEYLANG BAHRU GEYLANG BAHRU MARKET AND FOOD CENTRE SINGAPORE 330069"
+  },
+  {
+    "id": "560724",
+    "name": "724 Ang Mo Kio Food Centre",
+    "address": "724 Ang Mo Kio Avenue 6, Singapore",
+    "postal": "560724",
+    "lat": 1.372172585451713,
+    "lng": 103.8465103102021,
+    "coordinateSource": "https://www.onemap.gov.sg/api/common/elastic/search?searchVal=560724&returnGeom=Y&getAddrDetails=Y&pageNum=1",
+    "geocodedAddress": "724 ANG MO KIO AVENUE 6 MARKET & HAWKER CENTRE (BLK 724 ANG MO KIO AVE 6) SINGAPORE 560724"
+  },
+  {
+    "id": "120726",
+    "name": "726 West Coast Market Square",
+    "address": "726 Clementi West Street 2, Singapore",
+    "postal": "120726",
+    "lat": 1.303810731841269,
+    "lng": 103.7642507484353,
+    "coordinateSource": "https://www.onemap.gov.sg/api/common/elastic/search?searchVal=120726&returnGeom=Y&getAddrDetails=Y&pageNum=1",
+    "geocodedAddress": "726 CLEMENTI WEST STREET 2 MARKET & HAWKER CENTRE (BLK 726 CLEMENTI WEST STREET 2) SINGAPORE 120726"
+  },
+  {
+    "id": "370079",
+    "name": "79 Circuit Road Food Centre",
+    "address": "79 Circuit Road, Singapore",
+    "postal": "370079",
+    "lat": 1.326597067296303,
+    "lng": 103.8850522857353,
+    "coordinateSource": "https://www.onemap.gov.sg/api/common/elastic/search?searchVal=370079&returnGeom=Y&getAddrDetails=Y&pageNum=1",
+    "geocodedAddress": "79 CIRCUIT ROAD HAWKER CENTRE (BLKS 79/79A CIRCUIT ROAD) SINGAPORE 370079"
+  },
+  {
+    "id": "371079",
+    "name": "79A Circuit Road Food Centre",
+    "address": "79A Circuit Road, Singapore",
+    "postal": "371079",
+    "lat": 1.325506874368143,
+    "lng": 103.8849197703798,
+    "coordinateSource": "https://www.onemap.gov.sg/api/common/elastic/search?searchVal=371079&returnGeom=Y&getAddrDetails=Y&pageNum=1",
+    "geocodedAddress": "79A CIRCUIT ROAD HAWKER CENTRE (BLKS 79/79A CIRCUIT ROAD) SINGAPORE 371079"
+  },
+  {
+    "id": "440084",
+    "name": "84 Marine Parade Central Hawker Centre",
+    "address": "84 Marine Parade Central, Singapore",
+    "postal": "440084",
+    "lat": 1.302296555672787,
+    "lng": 103.906343833939,
+    "coordinateSource": "https://www.onemap.gov.sg/api/common/elastic/search?searchVal=440084&returnGeom=Y&getAddrDetails=Y&pageNum=1",
+    "geocodedAddress": "84 MARINE PARADE CENTRAL MARINE PARADE PROMENADE SINGAPORE 440084"
+  },
+  {
+    "id": "460085",
+    "name": "85 Fengshan Centre",
+    "address": "85 Bedok North Street 4, Singapore",
+    "postal": "460085",
+    "lat": 1.332004823994365,
+    "lng": 103.9387684391894,
+    "coordinateSource": "https://www.onemap.gov.sg/api/common/elastic/search?searchVal=460085&returnGeom=Y&getAddrDetails=Y&pageNum=1",
+    "geocodedAddress": "85 BEDOK NORTH STREET 4 FENGSHAN CENTRE SINGAPORE 460085"
+  },
+  {
+    "id": "198783",
+    "name": "861 North Bridge Road Market and Food Centre",
+    "address": "861 North Bridge Road, Singapore",
+    "postal": "198783",
+    "lat": 1.305634336522085,
+    "lng": 103.8639093366556,
+    "coordinateSource": "https://www.onemap.gov.sg/api/common/elastic/search?searchVal=198783&returnGeom=Y&getAddrDetails=Y&pageNum=1",
+    "geocodedAddress": "861 NORTH BRIDGE ROAD NORTH BRIDGE ROAD MARKET SINGAPORE 198783"
+  },
+  {
+    "id": "289876",
+    "name": "Adam Food Centre",
+    "address": "2 Adam Road, Singapore",
+    "postal": "289876",
+    "lat": 1.324159852595583,
+    "lng": 103.8141659241357,
+    "coordinateSource": "https://www.onemap.gov.sg/api/common/elastic/search?searchVal=289876&returnGeom=Y&getAddrDetails=Y&pageNum=1",
+    "geocodedAddress": "2 ADAM ROAD ADAM FOOD CENTRE SINGAPORE 289876"
+  },
+  {
+    "id": "180270",
+    "name": "Albert Centre Food Centre",
+    "address": "270 Queen Street, Singapore",
+    "postal": "180270",
+    "lat": 1.301102015734238,
+    "lng": 103.8541157790862,
+    "coordinateSource": "https://www.onemap.gov.sg/api/common/elastic/search?searchVal=180270&returnGeom=Y&getAddrDetails=Y&pageNum=1",
+    "geocodedAddress": "270 QUEEN STREET ALBERT CENTRE SINGAPORE 180270"
+  },
+  {
+    "id": "150120",
+    "name": "Alexandra Village Food Centre",
+    "address": "120 Bukit Merah Lane 1, Singapore",
+    "postal": "150120",
+    "lat": 1.286305942741363,
+    "lng": 103.8044926376481,
+    "coordinateSource": "https://www.onemap.gov.sg/api/common/elastic/search?searchVal=150120&returnGeom=Y&getAddrDetails=Y&pageNum=1",
+    "geocodedAddress": "120 BUKIT MERAH LANE 1 ALEXANDRA VILLAGE FOOD CENTRE SINGAPORE 150120"
+  },
+  {
+    "id": "069111",
+    "name": "Amoy Street Food Centre",
+    "address": "7 Maxwell Road, Singapore",
+    "postal": "069111",
+    "lat": 1.279353894271223,
+    "lng": 103.8461959732205,
+    "coordinateSource": "https://www.onemap.gov.sg/api/common/elastic/search?searchVal=069111&returnGeom=Y&getAddrDetails=Y&pageNum=1",
+    "geocodedAddress": "7 MAXWELL ROAD MND COMPLEX SINGAPORE 069111"
+  },
+  {
+    "id": "540339",
+    "name": "Anchorvale Village Hawker Centre",
+    "address": "339 Anchorvale Road, Singapore",
+    "postal": "540339",
+    "lat": 1.39679315311901,
+    "lng": 103.8884373447716,
+    "coordinateSource": "https://www.onemap.gov.sg/api/common/elastic/search?searchVal=540339&returnGeom=Y&getAddrDetails=Y&pageNum=1",
+    "geocodedAddress": "339 ANCHORVALE ROAD ANCHORVALE VILLAGE SINGAPORE 540339"
+  },
+  {
+    "id": "120503",
+    "name": "Ayer Rajah Food Centre",
+    "address": "503 West Coast Drive, Singapore",
+    "postal": "120503",
+    "lat": 1.311803089264245,
+    "lng": 103.7597514055419,
+    "coordinateSource": "https://www.onemap.gov.sg/api/common/elastic/search?searchVal=120503&returnGeom=Y&getAddrDetails=Y&pageNum=1",
+    "geocodedAddress": "503 WEST COAST DRIVE AYER RAJAH FOOD CENTRE SINGAPORE 120503"
+  },
+  {
+    "id": "460538",
+    "name": "Bedok 538 Market N Food Centre",
+    "address": "538 Bedok North Street 3, Singapore",
+    "postal": "460538",
+    "lat": 1.33206727712281,
+    "lng": 103.9246213149709,
+    "coordinateSource": "https://www.onemap.gov.sg/api/common/elastic/search?searchVal=460538&returnGeom=Y&getAddrDetails=Y&pageNum=1",
+    "geocodedAddress": "538 BEDOK NORTH STREET 3 MARKET & HAWKER CENTRE (BLK 538 BEDOK NORTH STREET 3) SINGAPORE 460538"
+  },
+  {
+    "id": "469572",
+    "name": "Bedok Food Centre",
+    "address": "1 Bedok Road, Singapore",
+    "postal": "469572",
+    "lat": 1.320350159561291,
+    "lng": 103.9554775987236,
+    "coordinateSource": "https://www.onemap.gov.sg/api/common/elastic/search?searchVal=469572&returnGeom=Y&getAddrDetails=Y&pageNum=1",
+    "geocodedAddress": "1 BEDOK ROAD BEDOK FOOD CENTRE SINGAPORE 469572"
+  },
+  {
+    "id": "462208",
+    "name": "Bedok Interchange Hawker Centre",
+    "address": "208B New Upper Changi Road, Singapore",
+    "postal": "462208",
+    "lat": 1.324782369856288,
+    "lng": 103.9305703045582,
+    "coordinateSource": "https://www.onemap.gov.sg/api/common/elastic/search?searchVal=462208&returnGeom=Y&getAddrDetails=Y&pageNum=1",
+    "geocodedAddress": "208B NEW UPPER CHANGI ROAD HAWKER CENTRE (BLK 208B NEW UPPER CHANGI ROAD) SINGAPORE 462208"
+  },
+  {
+    "id": "169982",
+    "name": "Beo Crescent Food Centre",
+    "address": "38A Beo Crescent, Singapore",
+    "postal": "169982",
+    "lat": 1.28883089150259,
+    "lng": 103.8273538922275,
+    "coordinateSource": "https://www.onemap.gov.sg/api/common/elastic/search?searchVal=169982&returnGeom=Y&getAddrDetails=Y&pageNum=1",
+    "geocodedAddress": "38A BEO CRESCENT BEO CRESCENT MARKET SINGAPORE 169982"
+  },
+  {
+    "id": "208877",
+    "name": "Berseh Food Centre",
+    "address": "166 Jalan Besar, Singapore",
+    "postal": "208877",
+    "lat": 1.307344109463725,
+    "lng": 103.8568887837683,
+    "coordinateSource": "https://www.onemap.gov.sg/api/common/elastic/search?searchVal=208877&returnGeom=Y&getAddrDetails=Y&pageNum=1",
+    "geocodedAddress": "166 JALAN BESAR BERSEH FOOD CENTRE SINGAPORE 208877"
+  },
+  {
+    "id": "320090",
+    "name": "Blk 90 Whampoa Makan Place",
+    "address": "90 Whampoa Drive, Singapore",
+    "postal": "320090",
+    "lat": 1.323064938011603,
+    "lng": 103.8549961835556,
+    "coordinateSource": "https://www.onemap.gov.sg/api/common/elastic/search?searchVal=320090&returnGeom=Y&getAddrDetails=Y&pageNum=1",
+    "geocodedAddress": "90 WHAMPOA DRIVE WHAMPOA DRIVE MAKAN PLACE SINGAPORE 320090"
+  },
+  {
+    "id": "320091",
+    "name": "Blk 91 Whampoa Makan Place",
+    "address": "91 Whampoa Drive, Singapore",
+    "postal": "320091",
+    "lat": 1.323428187182067,
+    "lng": 103.8540601978113,
+    "coordinateSource": "https://www.onemap.gov.sg/api/common/elastic/search?searchVal=320091&returnGeom=Y&getAddrDetails=Y&pageNum=1",
+    "geocodedAddress": "91 WHAMPOA DRIVE WHAMPOA DRIVE MAKAN PLACE SINGAPORE 320091"
+  },
+  {
+    "id": "642221",
+    "name": "Boon Lay Place Food Village",
+    "address": "221B Boon Lay Place, Singapore",
+    "postal": "642221",
+    "lat": 1.345760757068998,
+    "lng": 103.7130837429304,
+    "coordinateSource": "https://www.onemap.gov.sg/api/common/elastic/search?searchVal=642221&returnGeom=Y&getAddrDetails=Y&pageNum=1",
+    "geocodedAddress": "221B BOON LAY PLACE BOON LAY PLACE MARKET AND FOOD VILLAGE SINGAPORE 642221"
+  },
+  {
+    "id": "641221",
+    "name": "Boon Lay Place Market",
+    "address": "221A Boon Lay Place, Singapore",
+    "postal": "641221",
+    "lat": 1.345224065688922,
+    "lng": 103.7128006807733,
+    "coordinateSource": "https://www.onemap.gov.sg/api/common/elastic/search?searchVal=641221&returnGeom=Y&getAddrDetails=Y&pageNum=1",
+    "geocodedAddress": "221A BOON LAY PLACE BOON LAY PLACE MARKET AND FOOD VILLAGE SINGAPORE 641221"
+  },
+  {
+    "id": "544692",
+    "name": "Buangkok Hawker Centre",
+    "address": "70 Compassvale Bow, Singapore",
+    "postal": "544692",
+    "lat": 1.382981632033452,
+    "lng": 103.8927210077455,
+    "coordinateSource": "https://www.onemap.gov.sg/api/common/elastic/search?searchVal=544692&returnGeom=Y&getAddrDetails=Y&pageNum=1",
+    "geocodedAddress": "70 COMPASSVALE BOW SENGKANG GRAND MALL SINGAPORE 544692"
+  },
+  {
+    "id": "650469",
+    "name": "Bukit Batok West Hawker Centre",
+    "address": "469 Bukit Batok West Avenue 9, Singapore",
+    "postal": "650469",
+    "lat": 1.355233953936673,
+    "lng": 103.7417587565648,
+    "coordinateSource": "https://www.onemap.gov.sg/api/common/elastic/search?searchVal=650469&returnGeom=Y&getAddrDetails=Y&pageNum=1",
+    "geocodedAddress": "469 BUKIT BATOK WEST AVENUE 9 HARMONY VILLAGE @ BUKIT BATOK SINGAPORE 650469"
+  },
+  {
+    "id": "150163",
+    "name": "Bukit Merah Central Food Centre",
+    "address": "163 Bukit Merah Central, Singapore",
+    "postal": "150163",
+    "lat": 1.283881208204561,
+    "lng": 103.8169395441369,
+    "coordinateSource": "https://www.onemap.gov.sg/api/common/elastic/search?searchVal=150163&returnGeom=Y&getAddrDetails=Y&pageNum=1",
+    "geocodedAddress": "163 BUKIT MERAH CENTRAL SINGAPORE 150163"
+  },
+  {
+    "id": "679947",
+    "name": "Bukit Panjang Hawker Centre and Market",
+    "address": "2 Bukit Panjang Ring Road, Singapore",
+    "postal": "679947",
+    "lat": 1.37759742308949,
+    "lng": 103.7724915267466,
+    "coordinateSource": "https://www.onemap.gov.sg/api/common/elastic/search?searchVal=679947&returnGeom=Y&getAddrDetails=Y&pageNum=1",
+    "geocodedAddress": "2 BUKIT PANJANG RING ROAD BUKIT PANJANG HAWKER CENTRE SINGAPORE 679947"
+  },
+  {
+    "id": "599213",
+    "name": "Bukit Timah Wet Market and Food Centre (Interim)",
+    "address": "2A Jalan Seh Chuan, Singapore",
+    "postal": "599213",
+    "lat": 1.341251842975754,
+    "lng": 103.7750202962179,
+    "coordinateSource": "https://www.onemap.gov.sg/api/common/elastic/search?searchVal=599213&returnGeom=Y&getAddrDetails=Y&pageNum=1",
+    "geocodedAddress": "2A JALAN SEH CHUAN SINGAPORE 599213"
+  },
+  {
+    "id": "500002",
+    "name": "Changi Village Hawker Centre",
+    "address": "2 Changi Village Road, Singapore",
+    "postal": "500002",
+    "lat": 1.38915164858571,
+    "lng": 103.9882452477256,
+    "coordinateSource": "https://www.onemap.gov.sg/api/common/elastic/search?searchVal=500002&returnGeom=Y&getAddrDetails=Y&pageNum=1",
+    "geocodedAddress": "2 CHANGI VILLAGE ROAD MARKET & HAWKER CENTRE (BLKS 2 & 3 CHANGI VILLAGE ROAD) SINGAPORE 500002"
+  },
+  {
+    "id": "050335",
+    "name": "Chinatown Complex Food Centre",
+    "address": "335 Smith Street, Singapore",
+    "postal": "050335",
+    "lat": 1.28227496052711,
+    "lng": 103.8432385180712,
+    "coordinateSource": "https://www.onemap.gov.sg/api/common/elastic/search?searchVal=050335&returnGeom=Y&getAddrDetails=Y&pageNum=1",
+    "geocodedAddress": "335 SMITH STREET CHINATOWN COMPLEX SINGAPORE 050335"
+  },
+  {
+    "id": "557269",
+    "name": "Chomp Chomp Food Centre",
+    "address": "20 Kensington Park Road, Singapore",
+    "postal": "557269",
+    "lat": 1.364232524768871,
+    "lng": 103.8665270173799,
+    "coordinateSource": "https://www.onemap.gov.sg/api/common/elastic/search?searchVal=557269&returnGeom=Y&getAddrDetails=Y&pageNum=1",
+    "geocodedAddress": "20 KENSINGTON PARK ROAD CHOMP CHOMP FOOD CENTRE SINGAPORE 557269"
+  },
+  {
+    "id": "561453",
+    "name": "Chong Boon Market & Food Centre",
+    "address": "453A Ang Mo Kio Avenue 10, Singapore",
+    "postal": "561453",
+    "lat": 1.368247788776508,
+    "lng": 103.8563616498629,
+    "coordinateSource": "https://www.onemap.gov.sg/api/common/elastic/search?searchVal=561453&returnGeom=Y&getAddrDetails=Y&pageNum=1",
+    "geocodedAddress": "453A ANG MO KIO AVENUE 10 CHONG BOON MARKET AND FOOD CENTRE SINGAPORE 561453"
+  },
+  {
+    "id": "760104",
+    "name": "Chong Pang Market",
+    "address": "104 Yishun Ring Road, Singapore",
+    "postal": "760104",
+    "lat": 1.431447751589842,
+    "lng": 103.8285376718845,
+    "coordinateSource": "https://www.onemap.gov.sg/api/common/elastic/search?searchVal=760104&returnGeom=Y&getAddrDetails=Y&pageNum=1",
+    "geocodedAddress": "104 YISHUN RING ROAD CHONG PANG MARKET & FOOD CENTRE SINGAPORE 760104"
+  },
+  {
+    "id": "538776",
+    "name": "Ci Yuan Hawker Centre",
+    "address": "51 Hougang Avenue 9, Singapore",
+    "postal": "538776",
+    "lat": 1.375322537735674,
+    "lng": 103.8829319300397,
+    "coordinateSource": "https://www.onemap.gov.sg/api/common/elastic/search?searchVal=538776&returnGeom=Y&getAddrDetails=Y&pageNum=1",
+    "geocodedAddress": "51 HOUGANG AVENUE 9 CI YUAN COMMUNITY CLUB SINGAPORE 538776"
+  },
+  {
+    "id": "370080",
+    "name": "Circuit Road Market and Food Centre",
+    "address": "80 Circuit Road, Singapore",
+    "postal": "370080",
+    "lat": 1.327834146159377,
+    "lng": 103.8871026692355,
+    "coordinateSource": "https://www.onemap.gov.sg/api/common/elastic/search?searchVal=370080&returnGeom=Y&getAddrDetails=Y&pageNum=1",
+    "geocodedAddress": "80 CIRCUIT ROAD CIRCUIT ROAD MARKET AND FOOD CENTRE SINGAPORE 370080"
+  },
+  {
+    "id": "120448",
+    "name": "Clementi 448 Food Centre",
+    "address": "448 Clementi Avenue 3, Singapore",
+    "postal": "120448",
+    "lat": 1.313319693196444,
+    "lng": 103.7645171928738,
+    "coordinateSource": "https://www.onemap.gov.sg/api/common/elastic/search?searchVal=120448&returnGeom=Y&getAddrDetails=Y&pageNum=1",
+    "geocodedAddress": "448 CLEMENTI AVENUE 3 MARKET & HAWKER CENTRE (BLK 448 CLEMENTI AVENUE 3) SINGAPORE 120448"
+  },
+  {
+    "id": "120353",
+    "name": "Clementi Ave 2 Market & Food Centre",
+    "address": "353 Clementi Avenue 2, Singapore",
+    "postal": "120353",
+    "lat": 1.314379179789571,
+    "lng": 103.7709195611356,
+    "coordinateSource": "https://www.onemap.gov.sg/api/common/elastic/search?searchVal=120353&returnGeom=Y&getAddrDetails=Y&pageNum=1",
+    "geocodedAddress": "353 CLEMENTI AVENUE 2 MARKET & HAWKER CENTRE (BLK 353 CLEMENTI AVE 2) SINGAPORE 120353"
+  },
+  {
+    "id": "424768",
+    "name": "Dunman Food Centre",
+    "address": "271 Onan Road, Singapore",
+    "postal": "424768",
+    "lat": 1.309417887607602,
+    "lng": 103.9018254082271,
+    "coordinateSource": "https://www.onemap.gov.sg/api/common/elastic/search?searchVal=424768&returnGeom=Y&getAddrDetails=Y&pageNum=1",
+    "geocodedAddress": "271 ONAN ROAD DUNMAN FOOD CENTRE SINGAPORE 424768"
+  },
+  {
+    "id": "468960",
+    "name": "East Coast Lagoon Food Centre",
+    "address": "1220 East Coast Parkway, Singapore",
+    "postal": "468960",
+    "lat": 1.307261065911731,
+    "lng": 103.9347997370979,
+    "coordinateSource": "https://www.onemap.gov.sg/api/common/elastic/search?searchVal=468960&returnGeom=Y&getAddrDetails=Y&pageNum=1",
+    "geocodedAddress": "1220 EAST COAST PARKWAY EAST COAST LAGOON FOOD VILLAGE SINGAPORE 468960"
+  },
+  {
+    "id": "640963",
+    "name": "Eddy Seafood 156",
+    "address": "963 Jurong West Street 91, Singapore",
+    "postal": "640963",
+    "lat": 1.341859399947803,
+    "lng": 103.6920894524115,
+    "coordinateSource": "https://www.onemap.gov.sg/api/common/elastic/search?searchVal=640963&returnGeom=Y&getAddrDetails=Y&pageNum=1",
+    "geocodedAddress": "963 JURONG WEST STREET 91 SINGAPORE 640963"
+  },
+  {
+    "id": "260007",
+    "name": "Empress Road Market and Food Centre",
+    "address": "7 Empress Road, Singapore",
+    "postal": "260007",
+    "lat": 1.316240529605173,
+    "lng": 103.8056367003967,
+    "coordinateSource": "https://www.onemap.gov.sg/api/common/elastic/search?searchVal=260007&returnGeom=Y&getAddrDetails=Y&pageNum=1",
+    "geocodedAddress": "7 EMPRESS ROAD EMPRESS ROAD MARKET AND FOOD CENTRE SINGAPORE 260007"
+  },
+  {
+    "id": "797650",
+    "name": "Fernvale Hawker Centre and Market",
+    "address": "21 Sengkang West Avenue, Singapore",
+    "postal": "797650",
+    "lat": 1.391722092792314,
+    "lng": 103.877039073044,
+    "coordinateSource": "https://www.onemap.gov.sg/api/common/elastic/search?searchVal=797650&returnGeom=Y&getAddrDetails=Y&pageNum=1",
+    "geocodedAddress": "21 SENGKANG WEST AVENUE FERNVALE COMMUNITY CLUB SINGAPORE 797650"
+  },
+  {
+    "id": "380117",
+    "name": "Geylang East Market and Food Centre",
+    "address": "117 Aljunied Avenue 2, Singapore",
+    "postal": "380117",
+    "lat": 1.320646367819823,
+    "lng": 103.8870241399993,
+    "coordinateSource": "https://www.onemap.gov.sg/api/common/elastic/search?searchVal=380117&returnGeom=Y&getAddrDetails=Y&pageNum=1",
+    "geocodedAddress": "117 ALJUNIED AVENUE 2 MARKET & HAWKER CENTRE (BLK 117 ALJUNIED AVE 2) SINGAPORE 380117"
+  },
+  {
+    "id": "270020",
+    "name": "Ghim Moh Food Centre",
+    "address": "20 Ghim Moh Road, Singapore",
+    "postal": "270020",
+    "lat": 1.310996632188955,
+    "lng": 103.7882303066192,
+    "coordinateSource": "https://www.onemap.gov.sg/api/common/elastic/search?searchVal=270020&returnGeom=Y&getAddrDetails=Y&pageNum=1",
+    "geocodedAddress": "20 GHIM MOH ROAD MARKET & HAWKER CENTRE (BLK 20 GHIM MOH ROAD) SINGAPORE 270020"
+  },
+  {
+    "id": "199583",
+    "name": "Golden Mile Food Centre",
+    "address": "505 Beach Road, Singapore",
+    "postal": "199583",
+    "lat": 1.303141753203337,
+    "lng": 103.8638776153336,
+    "coordinateSource": "https://www.onemap.gov.sg/api/common/elastic/search?searchVal=199583&returnGeom=Y&getAddrDetails=Y&pageNum=1",
+    "geocodedAddress": "505 BEACH ROAD GOLDEN MILE FOOD CENTRE SINGAPORE 199583"
+  },
+  {
+    "id": "430014",
+    "name": "Haig Road Market and Food Centre",
+    "address": "14 Haig Road, Singapore",
+    "postal": "430014",
+    "lat": 1.315425093249136,
+    "lng": 103.8954792533277,
+    "coordinateSource": "https://www.onemap.gov.sg/api/common/elastic/search?searchVal=430014&returnGeom=Y&getAddrDetails=Y&pageNum=1",
+    "geocodedAddress": "14 HAIG ROAD HAIG ROAD MARKET AND COOKED FOOD CENTRE SINGAPORE 430014"
+  },
+  {
+    "id": "528523",
+    "name": "Hawker Centre @ Our Tampines Hub",
+    "address": "1 Tampines Walk, Singapore",
+    "postal": "528523",
+    "lat": 1.353133598288117,
+    "lng": 103.9404081353108,
+    "coordinateSource": "https://www.onemap.gov.sg/api/common/elastic/search?searchVal=528523&returnGeom=Y&getAddrDetails=Y&pageNum=1",
+    "geocodedAddress": "1 TAMPINES WALK OUR TAMPINES HUB SINGAPORE 528523"
+  },
+  {
+    "id": "270044",
+    "name": "Holland Drive Food Centre",
+    "address": "44 Holland Drive, Singapore",
+    "postal": "270044",
+    "lat": 1.308117800159921,
+    "lng": 103.7927737693404,
+    "coordinateSource": "https://www.onemap.gov.sg/api/common/elastic/search?searchVal=270044&returnGeom=Y&getAddrDetails=Y&pageNum=1",
+    "geocodedAddress": "44 HOLLAND DRIVE HOLLAND DRIVE MARKET AND FOOD CENTRE SINGAPORE 270044"
+  },
+  {
+    "id": "277700",
+    "name": "Holland Village Food Centre",
+    "address": "1 Lorong Mambong, Singapore",
+    "postal": "277700",
+    "lat": 1.311072974021275,
+    "lng": 103.7948764196615,
+    "coordinateSource": "https://www.onemap.gov.sg/api/common/elastic/search?searchVal=277700&returnGeom=Y&getAddrDetails=Y&pageNum=1",
+    "geocodedAddress": "1 LORONG MAMBONG HOLLAND VILLAGE MARKET & FOOD CENTRE SINGAPORE 277700"
+  },
+  {
+    "id": "051531",
+    "name": "Hong Lim Food Centre",
+    "address": "531A Upper Cross Street, Singapore",
+    "postal": "051531",
+    "lat": 1.285299077367731,
+    "lng": 103.8458238020424,
+    "coordinateSource": "https://www.onemap.gov.sg/api/common/elastic/search?searchVal=051531&returnGeom=Y&getAddrDetails=Y&pageNum=1",
+    "geocodedAddress": "531A UPPER CROSS STREET HONG LIM COMPLEX SINGAPORE 051531"
+  },
+  {
+    "id": "640505",
+    "name": "Jurong West 505 Market and Food Centre",
+    "address": "505 Jurong West Street 52, Singapore",
+    "postal": "640505",
+    "lat": 1.349657291307473,
+    "lng": 103.7184436778251,
+    "coordinateSource": "https://www.onemap.gov.sg/api/common/elastic/search?searchVal=640505&returnGeom=Y&getAddrDetails=Y&pageNum=1",
+    "geocodedAddress": "505 JURONG WEST STREET 52 MARKET & HAWKER CENTRE (BLK 505 JURONG WEST STREET 52) SINGAPORE 640505"
+  },
+  {
+    "id": "648202",
+    "name": "Jurong West Hawker Centre",
+    "address": "50 Jurong West Street 61, Singapore",
+    "postal": "648202",
+    "lat": 1.34126410393953,
+    "lng": 103.6972418521889,
+    "coordinateSource": "https://www.onemap.gov.sg/api/common/elastic/search?searchVal=648202&returnGeom=Y&getAddrDetails=Y&pageNum=1",
+    "geocodedAddress": "50 JURONG WEST STREET 61 JURONG WEST HAWKER CENTRE SINGAPORE 648202"
+  },
+  {
+    "id": "397972",
+    "name": "Kallang Estate Market",
+    "address": "17 Old Airport Road, Singapore",
+    "postal": "397972",
+    "lat": 1.307343983704754,
+    "lng": 103.8840176993185,
+    "coordinateSource": "https://www.onemap.gov.sg/api/common/elastic/search?searchVal=397972&returnGeom=Y&getAddrDetails=Y&pageNum=1",
+    "geocodedAddress": "17 OLD AIRPORT ROAD KALLANG ESTATE FRESH MARKET AND FOOD CENTRE SINGAPORE 397972"
+  },
+  {
+    "id": "568226",
+    "name": "Kebun Baru Food Centre",
+    "address": "226H Ang Mo Kio Street 22, Singapore",
+    "postal": "568226",
+    "lat": 1.367196537523802,
+    "lng": 103.8400222239506,
+    "coordinateSource": "https://www.onemap.gov.sg/api/common/elastic/search?searchVal=568226&returnGeom=Y&getAddrDetails=Y&pageNum=1",
+    "geocodedAddress": "226H ANG MO KIO STREET 22 KEBUN BARU MALL SINGAPORE 568226"
+  },
+  {
+    "id": "564226",
+    "name": "Kebun Baru Market and Food Centre",
+    "address": "226D Ang Mo Kio Avenue 1, Singapore",
+    "postal": "564226",
+    "lat": 1.36680096218072,
+    "lng": 103.8391522742238,
+    "coordinateSource": "https://www.onemap.gov.sg/api/common/elastic/search?searchVal=564226&returnGeom=Y&getAddrDetails=Y&pageNum=1",
+    "geocodedAddress": "226D ANG MO KIO AVENUE 1 KEBUN BARU MALL SINGAPORE 564226"
+  },
+  {
+    "id": "310022",
+    "name": "Kim Keat Palm Market & Food Centre",
+    "address": "22 Lorong 7 Toa Payoh, Singapore",
+    "postal": "310022",
+    "lat": 1.33538261333779,
+    "lng": 103.857003709119,
+    "coordinateSource": "https://www.onemap.gov.sg/api/common/elastic/search?searchVal=310022&returnGeom=Y&getAddrDetails=Y&pageNum=1",
+    "geocodedAddress": "22 LORONG 7 TOA PAYOH KIM KEAT PALM MARKET AND FOOD CENTRE SINGAPORE 310022"
+  },
+  {
+    "id": "530209",
+    "name": "Kovan Food Centre",
+    "address": "209 Hougang Street 21, Singapore",
+    "postal": "530209",
+    "lat": 1.359083840910492,
+    "lng": 103.8860553680639,
+    "coordinateSource": "https://www.onemap.gov.sg/api/common/elastic/search?searchVal=530209&returnGeom=Y&getAddrDetails=Y&pageNum=1",
+    "geocodedAddress": "209 HOUGANG STREET 21 KOVAN HOUGANG MARKET AND FOOD CENTRE SINGAPORE 530209"
+  },
+  {
+    "id": "161001",
+    "name": "Kukoh 21 Food Centre",
+    "address": "1 Jalan Kukoh, Singapore",
+    "postal": "161001",
+    "lat": 1.288231015280508,
+    "lng": 103.8399341680651,
+    "coordinateSource": "https://www.onemap.gov.sg/api/common/elastic/search?searchVal=161001&returnGeom=Y&getAddrDetails=Y&pageNum=1",
+    "geocodedAddress": "1 JALAN KUKOH HAWKER CENTRE (BLK 1 JALAN KUKOH) SINGAPORE 161001"
+  },
+  {
+    "id": "142038",
+    "name": "Margaret Drive Hawker Centre",
+    "address": "38A Margaret Drive, Singapore",
+    "postal": "142038",
+    "lat": 1.297486559328558,
+    "lng": 103.8046937974298,
+    "coordinateSource": "https://www.onemap.gov.sg/api/common/elastic/search?searchVal=142038&returnGeom=Y&getAddrDetails=Y&pageNum=1",
+    "geocodedAddress": "38A MARGARET DRIVE SKYRESIDENCE @ DAWSON SINGAPORE 142038"
+  },
+  {
+    "id": "730020",
+    "name": "Marsiling Lane Market and Cooked Food Centre",
+    "address": "20 Marsiling Lane, Singapore",
+    "postal": "730020",
+    "lat": 1.443416242918255,
+    "lng": 103.7770061037573,
+    "coordinateSource": "https://www.onemap.gov.sg/api/common/elastic/search?searchVal=730020&returnGeom=Y&getAddrDetails=Y&pageNum=1",
+    "geocodedAddress": "20 MARSILING LANE MARSILING LANE MARKET & COOKED FOOD CENTRE SINGAPORE 730020"
+  },
+  {
+    "id": "738623",
+    "name": "Marsiling Mall Hawker Centre",
+    "address": "4 Woodlands Street 12, Singapore",
+    "postal": "738623",
+    "lat": 1.433543181375354,
+    "lng": 103.77988189197,
+    "coordinateSource": "https://www.onemap.gov.sg/api/common/elastic/search?searchVal=738623&returnGeom=Y&getAddrDetails=Y&pageNum=1",
+    "geocodedAddress": "4 WOODLANDS STREET 12 MARSILING MALL HAWKER CENTRE SINGAPORE 738623"
+  },
+  {
+    "id": "069184",
+    "name": "Maxwell Food Centre",
+    "address": "1 Kadayanallur Street, Singapore",
+    "postal": "069184",
+    "lat": 1.280331427273161,
+    "lng": 103.8447472274788,
+    "coordinateSource": "https://www.onemap.gov.sg/api/common/elastic/search?searchVal=069184&returnGeom=Y&getAddrDetails=Y&pageNum=1",
+    "geocodedAddress": "1 KADAYANALLUR STREET MAXWELL FOOD CENTRE SINGAPORE 069184"
+  },
+  {
+    "id": "140159",
+    "name": "Mei Ling Market",
+    "address": "159 Mei Chin Road, Singapore",
+    "postal": "140159",
+    "lat": 1.293236244437354,
+    "lng": 103.8029038718891,
+    "coordinateSource": "https://www.onemap.gov.sg/api/common/elastic/search?searchVal=140159&returnGeom=Y&getAddrDetails=Y&pageNum=1",
+    "geocodedAddress": "159 MEI CHIN ROAD BLK 139 MEI CHIN ROAD SINGAPORE 140159"
+  },
+  {
+    "id": "229495",
+    "name": "Newton Food Centre",
+    "address": "500 Clemenceau Avenue North, Singapore",
+    "postal": "229495",
+    "lat": 1.311915520312747,
+    "lng": 103.8395697287207,
+    "coordinateSource": "https://www.onemap.gov.sg/api/common/elastic/search?searchVal=229495&returnGeom=Y&getAddrDetails=Y&pageNum=1",
+    "geocodedAddress": "500 CLEMENCEAU AVENUE NORTH NEWTON FOOD CENTRE SINGAPORE 229495"
+  },
+  {
+    "id": "828629",
+    "name": "One Punggol Hawker Centre",
+    "address": "1 Punggol Drive, Singapore",
+    "postal": "828629",
+    "lat": 1.408728475961338,
+    "lng": 103.9051549249232,
+    "coordinateSource": "https://www.onemap.gov.sg/api/common/elastic/search?searchVal=828629&returnGeom=Y&getAddrDetails=Y&pageNum=1",
+    "geocodedAddress": "1 PUNGGOL DRIVE ONE PUNGGOL SINGAPORE 828629"
+  },
+  {
+    "id": "460016",
+    "name": "Pasar 16 @ Bedok",
+    "address": "16 Bedok South Road, Singapore",
+    "postal": "460016",
+    "lat": 1.320500837852431,
+    "lng": 103.9354736372912,
+    "coordinateSource": "https://www.onemap.gov.sg/api/common/elastic/search?searchVal=460016&returnGeom=Y&getAddrDetails=Y&pageNum=1",
+    "geocodedAddress": "16 BEDOK SOUTH ROAD MARKET & HAWKER CENTRE (BLK 16 BEDOK SOUTH ROAD) SINGAPORE 460016"
+  },
+  {
+    "id": "118543",
+    "name": "Pasir Panjang Food Centre",
+    "address": "121 Pasir Panjang Road, Singapore",
+    "postal": "118543",
+    "lat": 1.275698793253488,
+    "lng": 103.7916199642926,
+    "coordinateSource": "https://www.onemap.gov.sg/api/common/elastic/search?searchVal=118543&returnGeom=Y&getAddrDetails=Y&pageNum=1",
+    "geocodedAddress": "121 PASIR PANJANG ROAD SINGAPORE 118543"
+  },
+  {
+    "id": "519641",
+    "name": "Pasir Ris Central Hawker Centre",
+    "address": "110 Pasir Ris Central, Singapore",
+    "postal": "519641",
+    "lat": 1.373472520643268,
+    "lng": 103.9515713424669,
+    "coordinateSource": "https://www.onemap.gov.sg/api/common/elastic/search?searchVal=519641&returnGeom=Y&getAddrDetails=Y&pageNum=1",
+    "geocodedAddress": "110 PASIR RIS CENTRAL PASIR RIS CENTRAL HAWKER CENTRE SINGAPORE 519641"
+  },
+  {
+    "id": "211041",
+    "name": "Pek Kio Market and Food Centre",
+    "address": "41A Cambridge Road, Singapore",
+    "postal": "211041",
+    "lat": 1.316131280294595,
+    "lng": 103.8502329351617,
+    "coordinateSource": "https://www.onemap.gov.sg/api/common/elastic/search?searchVal=211041&returnGeom=Y&getAddrDetails=Y&pageNum=1",
+    "geocodedAddress": "41A CAMBRIDGE ROAD PEK KIO MARKET & FOOD CENTRE SINGAPORE 211041"
+  },
+  {
+    "id": "050032",
+    "name": "People's Park Food Centre",
+    "address": "32 New Market Road, Singapore",
+    "postal": "050032",
+    "lat": 1.284858608026473,
+    "lng": 103.8425787710541,
+    "coordinateSource": "https://www.onemap.gov.sg/api/common/elastic/search?searchVal=050032&returnGeom=Y&getAddrDetails=Y&pageNum=1",
+    "geocodedAddress": "32 NEW MARKET ROAD SINGAPORE 050032"
+  },
+  {
+    "id": "099114",
+    "name": "Seah Im Food Centre",
+    "address": "2 Seah Im Road, Singapore",
+    "postal": "099114",
+    "lat": 1.26656813225079,
+    "lng": 103.819248035765,
+    "coordinateSource": "https://www.onemap.gov.sg/api/common/elastic/search?searchVal=099114&returnGeom=Y&getAddrDetails=Y&pageNum=1",
+    "geocodedAddress": "2 SEAH IM ROAD SEAH IM FOOD CENTRE SINGAPORE 099114"
+  },
+  {
+    "id": "574419",
+    "name": "Sembawang Hills Food Centre",
+    "address": "590 Upper Thomson Road, Singapore",
+    "postal": "574419",
+    "lat": 1.37231949296184,
+    "lng": 103.8290181450886,
+    "coordinateSource": "https://www.onemap.gov.sg/api/common/elastic/search?searchVal=574419&returnGeom=Y&getAddrDetails=Y&pageNum=1",
+    "geocodedAddress": "590 UPPER THOMSON ROAD SEMBAWANG HILLS FOOD CENTRE SINGAPORE 574419"
+  },
+  {
+    "id": "677632",
+    "name": "Senja Hawker Centre",
+    "address": "2 Senja Close, Singapore",
+    "postal": "677632",
+    "lat": 1.387194004152826,
+    "lng": 103.7610839763762,
+    "coordinateSource": "https://www.onemap.gov.sg/api/common/elastic/search?searchVal=677632&returnGeom=Y&getAddrDetails=Y&pageNum=1",
+    "geocodedAddress": "2 SENJA CLOSE SENJA HAWKER CENTRE SINGAPORE 677632"
+  },
+  {
+    "id": "555945",
+    "name": "Serangoon Garden Market and Food Centre",
+    "address": "49A Serangoon Garden Way, Singapore",
+    "postal": "555945",
+    "lat": 1.363085011111054,
+    "lng": 103.8667249491181,
+    "coordinateSource": "https://www.onemap.gov.sg/api/common/elastic/search?searchVal=555945&returnGeom=Y&getAddrDetails=Y&pageNum=1",
+    "geocodedAddress": "49A SERANGOON GARDEN WAY SERANGOON GARDEN MARKET SINGAPORE 555945"
+  },
+  {
+    "id": "380049",
+    "name": "Sims Vista Food Centre",
+    "address": "49 Sims Place, Singapore",
+    "postal": "380049",
+    "lat": 1.317035023753244,
+    "lng": 103.8793098547741,
+    "coordinateSource": "https://www.onemap.gov.sg/api/common/elastic/search?searchVal=380049&returnGeom=Y&getAddrDetails=Y&pageNum=1",
+    "geocodedAddress": "49 SIMS PLACE SIMS VISTA MARKET AND FOOD CENTRE SINGAPORE 380049"
+  },
+  {
+    "id": "618499",
+    "name": "Taman Jurong Food Centre",
+    "address": "3 Yung Sheng Road, Singapore",
+    "postal": "618499",
+    "lat": 1.334721066192806,
+    "lng": 103.7215837974505,
+    "coordinateSource": "https://www.onemap.gov.sg/api/common/elastic/search?searchVal=618499&returnGeom=Y&getAddrDetails=Y&pageNum=1",
+    "geocodedAddress": "3 YUNG SHENG ROAD TAMAN JURONG MARKET & FOOD CENTRE SINGAPORE 618499"
+  },
+  {
+    "id": "521137",
+    "name": "Tampines Round Market & Food Centre",
+    "address": "137 Tampines Street 11, Singapore",
+    "postal": "521137",
+    "lat": 1.345373473737498,
+    "lng": 103.9446294228272,
+    "coordinateSource": "https://www.onemap.gov.sg/api/common/elastic/search?searchVal=521137&returnGeom=Y&getAddrDetails=Y&pageNum=1",
+    "geocodedAddress": "137 TAMPINES STREET 11 TAMPINES ROUND MARKET AND FOOD CENTRE SINGAPORE 521137"
+  },
+  {
+    "id": "148813",
+    "name": "Tanglin Halt Market",
+    "address": "48A Tanglin Halt Road, Singapore",
+    "postal": "148813",
+    "lat": 1.300544075074275,
+    "lng": 103.7977379802471,
+    "coordinateSource": "https://www.onemap.gov.sg/api/common/elastic/search?searchVal=148813&returnGeom=Y&getAddrDetails=Y&pageNum=1",
+    "geocodedAddress": "48A TANGLIN HALT ROAD TANGLIN HALT MARKET SINGAPORE 148813"
+  },
+  {
+    "id": "601037",
+    "name": "Teban Gardens Hawker",
+    "address": "37A Teban Gardens Road, Singapore",
+    "postal": "601037",
+    "lat": 1.320831093414238,
+    "lng": 103.7427481191047,
+    "coordinateSource": "https://www.onemap.gov.sg/api/common/elastic/search?searchVal=601037&returnGeom=Y&getAddrDetails=Y&pageNum=1",
+    "geocodedAddress": "37A TEBAN GARDENS ROAD TEBAN GARDENS MARKET AND FOOD CENTRE SINGAPORE 601037"
+  },
+  {
+    "id": "560341",
+    "name": "Teck Ghee Court Market and Food Centre",
+    "address": "341 Ang Mo Kio Avenue 1, Singapore",
+    "postal": "560341",
+    "lat": 1.36410720984458,
+    "lng": 103.8482421658603,
+    "coordinateSource": "https://www.onemap.gov.sg/api/common/elastic/search?searchVal=560341&returnGeom=Y&getAddrDetails=Y&pageNum=1",
+    "geocodedAddress": "341 ANG MO KIO AVENUE 1 TECK GHEE COURT SINGAPORE 560341"
+  },
+  {
+    "id": "210665",
+    "name": "Tekka Hawker Centre",
+    "address": "665 Buffalo Road, Singapore",
+    "postal": "210665",
+    "lat": 1.306186638467718,
+    "lng": 103.8505855700667,
+    "coordinateSource": "https://www.onemap.gov.sg/api/common/elastic/search?searchVal=210665&returnGeom=Y&getAddrDetails=Y&pageNum=1",
+    "geocodedAddress": "665 BUFFALO ROAD ZHUJIAO CENTRE (TEKKA MARKET) SINGAPORE 210665"
+  },
+  {
+    "id": "090011",
+    "name": "Telok Blangah Crescent Market and Food Centre",
+    "address": "11 Telok Blangah Crescent, Singapore",
+    "postal": "090011",
+    "lat": 1.277368132257612,
+    "lng": 103.8186515243339,
+    "coordinateSource": "https://www.onemap.gov.sg/api/common/elastic/search?searchVal=090011&returnGeom=Y&getAddrDetails=Y&pageNum=1",
+    "geocodedAddress": "11 TELOK BLANGAH CRESCENT MARKET & HAWKER CENTRE (BLK 11 TELOK BLANGAH CRESCENT) SINGAPORE 090011"
+  },
+  {
+    "id": "461058",
+    "name": "The Marketplace@58",
+    "address": "58 New Upper Changi Road, Singapore",
+    "postal": "461058",
+    "lat": 1.324200873340016,
+    "lng": 103.9411252775471,
+    "coordinateSource": "https://www.onemap.gov.sg/api/common/elastic/search?searchVal=461058&returnGeom=Y&getAddrDetails=Y&pageNum=1",
+    "geocodedAddress": "58 NEW UPPER CHANGI ROAD MARKET & HAWKER CENTRE (BLK 58 NEW UPPER CHANGI ROAD) SINGAPORE 461058"
+  },
+  {
+    "id": "168898",
+    "name": "Tiong Bahru Food Centre",
+    "address": "30 Seng Poh Road, Singapore",
+    "postal": "168898",
+    "lat": 1.284785598103721,
+    "lng": 103.8321815468844,
+    "coordinateSource": "https://www.onemap.gov.sg/api/common/elastic/search?searchVal=168898&returnGeom=Y&getAddrDetails=Y&pageNum=1",
+    "geocodedAddress": "30 SENG POH ROAD TIONG BAHRU MARKET SINGAPORE 168898"
+  },
+  {
+    "id": "310075",
+    "name": "Toa Payoh Lorong 5 Hawker Centre",
+    "address": "75 Lorong 5 Toa Payoh, Singapore",
+    "postal": "310075",
+    "lat": 1.336020767662008,
+    "lng": 103.8529569880616,
+    "coordinateSource": "https://www.onemap.gov.sg/api/common/elastic/search?searchVal=310075&returnGeom=Y&getAddrDetails=Y&pageNum=1",
+    "geocodedAddress": "75 LORONG 5 TOA PAYOH HAWKER CENTRE (BLK 75 TOA PAYOH LORONG 5) SINGAPORE 310075"
+  },
+  {
+    "id": "310210",
+    "name": "Toa Payoh Lorong 8 Market and Hawker Centre",
+    "address": "210 Lorong 8 Toa Payoh, Singapore",
+    "postal": "310210",
+    "lat": 1.340261046188113,
+    "lng": 103.8543957588659,
+    "coordinateSource": "https://www.onemap.gov.sg/api/common/elastic/search?searchVal=310210&returnGeom=Y&getAddrDetails=Y&pageNum=1",
+    "geocodedAddress": "210 LORONG 8 TOA PAYOH MARKET & HAWKER CENTRE (BLK 210 TOA PAYOH LORONG 8) SINGAPORE 310210"
+  },
+  {
+    "id": "310127",
+    "name": "Toa Payoh West Market and Food Centre",
+    "address": "127 Lorong 1 Toa Payoh, Singapore",
+    "postal": "310127",
+    "lat": 1.338103514521133,
+    "lng": 103.8447327267261,
+    "coordinateSource": "https://www.onemap.gov.sg/api/common/elastic/search?searchVal=310127&returnGeom=Y&getAddrDetails=Y&pageNum=1",
+    "geocodedAddress": "127 LORONG 1 TOA PAYOH TOA PAYOH WEST MARKET AND FOOD COURT SINGAPORE 310127"
+  },
+  {
+    "id": "380017",
+    "name": "Upper Boon Keng Food Centre",
+    "address": "17 Upper Boon Keng Road, Singapore",
+    "postal": "380017",
+    "lat": 1.315028415147315,
+    "lng": 103.87162041674,
+    "coordinateSource": "https://www.onemap.gov.sg/api/common/elastic/search?searchVal=380017&returnGeom=Y&getAddrDetails=Y&pageNum=1",
+    "geocodedAddress": "17 UPPER BOON KENG ROAD UPPER BOON KENG MARKET AND FOOD CENTRE SINGAPORE 380017"
+  },
+  {
+    "id": "360202",
+    "name": "Woodleigh Village Hawker Centre",
+    "address": "202C Woodleigh Link, Singapore",
+    "postal": "360202",
+    "lat": 1.339884024242359,
+    "lng": 103.8714327177694,
+    "coordinateSource": "https://www.onemap.gov.sg/api/common/elastic/search?searchVal=360202&returnGeom=Y&getAddrDetails=Y&pageNum=1",
+    "geocodedAddress": "202 WOODLEIGH LINK WOODLEIGH VILLAGE SINGAPORE 360202"
+  },
+  {
+    "id": "768867",
+    "name": "Yishun Park Hawker Centre",
+    "address": "51 Yishun Avenue 11, Singapore",
+    "postal": "768867",
+    "lat": 1.424987862873653,
+    "lng": 103.8447475250637,
+    "coordinateSource": "https://www.onemap.gov.sg/api/common/elastic/search?searchVal=768867&returnGeom=Y&getAddrDetails=Y&pageNum=1",
+    "geocodedAddress": "51 YISHUN AVENUE 11 YISHUN PARK HAWKER CENTRE SINGAPORE 768867"
+  },
+  {
+    "id": "600254",
+    "name": "Yuhua Village Food Centre",
+    "address": "254 Jurong East Street 24, Singapore",
+    "postal": "600254",
+    "lat": 1.343488185204953,
+    "lng": 103.73773841183,
+    "coordinateSource": "https://www.onemap.gov.sg/api/common/elastic/search?searchVal=600254&returnGeom=Y&getAddrDetails=Y&pageNum=1",
+    "geocodedAddress": "254 JURONG EAST STREET 24 YUHUA VILLAGE MARKET AND FOOD CENTRE SINGAPORE 600254"
+  },
+  {
+    "id": "247792",
+    "name": "Zion Riverside Food Centre",
+    "address": "70 Zion Road, Singapore",
+    "postal": "247792",
+    "lat": 1.292311148006568,
+    "lng": 103.8309733585482,
+    "coordinateSource": "https://www.onemap.gov.sg/api/common/elastic/search?searchVal=247792&returnGeom=Y&getAddrDetails=Y&pageNum=1",
+    "geocodedAddress": "70 ZION ROAD SINGAPORE 247792"
+  }
+]
